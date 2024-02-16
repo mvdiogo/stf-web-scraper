@@ -8,13 +8,13 @@ Before running the script, make sure you have the following installed:
 
 - Python 3.x
 - Playwright Python library (`playwright`)
-- Selectolax Python library (`selectolax`)
-- Chromium
+- BeautifulSoup Python library (`BeautifulSoup`)
+- [Browser](https://playwright.dev/python/docs/browsers)
 
 You can install the dependencies using pip:
 
 ```bash
-pip install playwright selectolax
+pip install playwright beautifulsoup4
 ```
 
 You can install the Chromium using apt-get:
